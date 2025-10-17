@@ -21,3 +21,42 @@ By completing this project, you will:
 - **Frontend:** HTML, CSS, JavaScript (React or similar framework)  
 - **Version Control:** Git & GitHub  
 - **Design Tools:** Figma for UI/UX Design
+
+
+---
+
+## 🎨 UI/UX Design Planning
+
+### 🧭 Objective
+Document the planning process for the UI/UX design to ensure a seamless and intuitive user experience across the StayEase web application.
+
+---
+
+### 🎯 Design Goals
+- Create an intuitive booking flow  
+- Maintain visual consistency across pages  
+- Ensure fast loading times  
+- Prioritize mobile responsiveness  
+
+---
+
+### ⚙️ Key Features
+- Property search and filtering  
+- Detailed property viewing  
+- Secure checkout process  
+- User authentication  
+
+---
+
+### 🗂️ Primary Pages
+
+| **Page** | **Description** |
+|-----------|------------------|
+| **Property Listing View** | Grid display of available properties with filters |
+| **Listing Detailed View** | Complete property details with images and booking form |
+| **Simple Checkout View** | Streamlined payment and booking confirmation |
+
+---
+
+### 💡 Importance of User-Friendly Design
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are essential for user trust and engagement.

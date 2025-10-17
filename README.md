@@ -60,3 +60,46 @@ Document the planning process for the UI/UX design to ensure a seamless and intu
 
 ### 💡 Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are essential for user trust and engagement.
+
+
+
+---
+
+### 🖌️ Figma Design Specifications
+
+#### 🎨 Color Styles
+| **Type** | **Color Code** |
+|-----------|----------------|
+| Primary | `#FF5A5F` |
+| Secondary | `#008489` |
+| Background | `#FFFFFF` |
+| Text | `#222222` |
+| Secondary Text | `#717171` |
+
+#### ✍️ Typography
+| **Type** | **Font Family** | **Font Weight** | **Font Size** |
+|-----------|-----------------|------------------|----------------|
+| Primary Font | Circular | Medium (500) | 16px |
+| Headings | Circular | Bold (700) | 24px–32px |
+| Secondary Text | Circular | Book (400) | 14px |
+
+---
+
+### 📘 Importance of Identifying Design Properties
+Understanding design properties in Figma helps ensure:
+- Consistency across all UI elements  
+- Alignment between design and code  
+- Efficient handoff between designers and developers  
+- A professional and cohesive user interface  
+
+
+
+
+
+
+
+
+
+
+
+

@@ -93,6 +93,20 @@ Understanding design properties in Figma helps ensure:
 - A professional and cohesive user interface  
 
 
+---
+
+## 👥 Project Roles and Responsibilities
+
+| **Role** | **Responsibilities** |
+|-----------|-----------------------|
+| **Project Manager** | Oversees project timeline, coordinates team, manages deliverables. |
+| **Frontend Developers** | Implement UI components, ensure responsive design, integrate APIs. |
+| **Backend Developers** | Build APIs, manage database, and implement business logic. |
+| **Designers** | Create mockups, define color schemes, maintain UI consistency. |
+| **QA/Testers** | Write test cases, perform unit and integration tests, report bugs. |
+| **DevOps Engineers** | Handle deployment, CI/CD pipeline, and server management. |
+| **Product Owner** | Define requirements, prioritize features, and represent stakeholders. |
+| **Scrum Master** | Facilitate Agile processes, remove blockers, organize sprints. |
 
 
 

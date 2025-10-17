@@ -83,6 +83,19 @@ A well-designed booking system reduces friction in the user journey, increases c
 | Headings | Circular | Bold (700) | 24px–32px |
 | Secondary Text | Circular | Book (400) | 14px |
 
+### 🖼️ Wireframe & Design Prototype
+
+You can explore the full UI/UX design and wireframe in Figma using the link below:  
+
+👉 [View Figma Design – Project Airbnb](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-4&p=f&t=vuWKzS1Zg0f4z5XK-0)
+
+The Figma file includes:
+- Low-fidelity wireframes of all main pages (Listing, Details, Checkout)
+- High-fidelity mockups demonstrating color, typography, and layout
+- Interactive prototypes showcasing user navigation and booking flow
+- Design specifications for color, typography, and spacing
+
+
 ---
 
 ### 📘 Importance of Identifying Design Properties

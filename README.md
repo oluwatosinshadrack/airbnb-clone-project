@@ -25,6 +25,7 @@ By completing this project, you will:
 
 ---
 
+
 ## 🎨 UI/UX Design Planning
 
 ### 🧭 Objective
@@ -65,6 +66,7 @@ A well-designed booking system reduces friction in the user journey, increases c
 
 ---
 
+
 ### 🖌️ Figma Design Specifications
 
 #### 🎨 Color Styles
@@ -98,6 +100,7 @@ The Figma file includes:
 
 ---
 
+
 ### 📘 Importance of Identifying Design Properties
 Understanding design properties in Figma helps ensure:
 - Consistency across all UI elements  
@@ -107,6 +110,7 @@ Understanding design properties in Figma helps ensure:
 
 
 ---
+
 
 ## 👥 Project Roles and Responsibilities
 
@@ -123,6 +127,7 @@ Understanding design properties in Figma helps ensure:
 
 
 ---
+
 
 ## 🧩 UI Component Patterns
 

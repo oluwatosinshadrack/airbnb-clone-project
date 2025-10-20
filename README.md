@@ -122,6 +122,31 @@ Understanding design properties in Figma helps ensure:
 | **Scrum Master** | Facilitate Agile processes, remove blockers, organize sprints. |
 
 
+---
+
+## 🧩 UI Component Patterns
+
+### Planned Components
+
+#### 🧭 Navbar
+- Logo  
+- Search bar  
+- User navigation  
+- Responsive menu
+
+#### 🏠 Property Card
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite button  
+- Responsive layout  
+
+#### ⚙️ Footer
+- Site links  
+- Company information  
+- Social media icons  
+- Copyright text  
+
+Each component will be **designed for reusability** and **consistent styling** across all pages.
 
 
 
